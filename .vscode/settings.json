@@ -1,0 +1,8 @@
+{
+    "sundial.autoLocale": true,
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "sundial.nightSettings": {
+        "workbench.preferredDarkColorTheme": "Tomorrow Night Blue",
+    },
+    "sundial.interval": 1
+}
